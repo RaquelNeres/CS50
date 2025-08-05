@@ -1,6 +1,3 @@
-## 🎓 `CS50/README.md` (raiz do repositório) — *Visão geral do curso*
-
-```md
 # 👩‍💻 CS50x - Harvard's Introduction to Computer Science
 
 Este repositório contém meu progresso no curso [CS50x](https://cs50.harvard.edu/x/) — uma introdução à Ciência da Computação oferecida por Harvard e disponível gratuitamente.
