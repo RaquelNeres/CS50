@@ -31,10 +31,7 @@ Essa abordagem é ótima para quem está começando, porque foca na lógica ante
 
 ## 🧩 Explicação do projeto
 
-> Aqui você descreve o que o seu projeto faz e como funciona.
-
-Exemplo:
-> Criei um jogo onde o jogador controla uma nave que precisa desviar de obstáculos. A cada colisão, o jogo reinicia. Usei blocos de movimentação, detecção de colisão e sons.
+> Criei um jogo onde o jogador controla o prsonagem que precisa desviar de obstáculos. A cada colisão, perde 1 vida. O personagem dispara raios laser. Usei blocos de movimentação, detecção de colisão e sons.
 
 ### Principais blocos usados:
 - `quando bandeira verde clicada`: inicia o jogo
@@ -52,14 +49,5 @@ Exemplo:
 
 ---
 
-## 🪄 Extras
+Mesmo sendo uma plataforma visual, essa semana me mostrou o quão poderosa é a lógica por trás da programação. Um a pensar como um desenvolvedor, mesmo sem escrever uma linha de código.
 
-> (Aqui você pode colocar algo mais criativo, tipo: o que faria diferente se tivesse mais tempo, ideias para melhorar o projeto ou curiosidades sobre o que achou divertido.)
-
----
-
-## 🧘‍♀️ Reflexão
-
-Mesmo sendo uma plataforma visual, essa semana me mostrou o quão poderosa é a lógica por trás da programação. Me senti desafiada a pensar como uma desenvolvedora, mesmo sem escrever uma linha de código.
-
-> "Antes de saber programar em C, eu aprendi a pensar como uma programadora."
