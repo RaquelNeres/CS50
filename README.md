@@ -1,6 +1,3 @@
-
----
-
 ## 🎓 `CS50/README.md` (raiz do repositório) — *Visão geral do curso*
 
 ```md
