@@ -1,7 +1,4 @@
-
----
-
-## 🎓 `CS50/README.md` (raiz do repositório) — *Visão geral do curso*
+# 🎓 `CS50/README.md` (raiz do repositório) — *Visão geral do curso*
 
 ```md
 # 👩‍💻 CS50x - Harvard's Introduction to Computer Science
