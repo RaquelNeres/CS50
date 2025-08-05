@@ -35,7 +35,7 @@ Essa abordagem é ótima para quem está começando, porque foca na lógica ante
 
 ### Principais blocos usados:
 - `quando bandeira verde clicada`: inicia o jogo
-- `mude x por ___`: movimentação da nave
+- `mude x por ___`: movimentação do personagem
 - `se tocar em ___ então`: detecção de colisão
 - `reproduzir som ___`: efeitos sonoros
 
