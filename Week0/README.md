@@ -19,12 +19,13 @@ Essa abordagem é ótima para quem está começando, porque foca na lógica ante
 
 ## 🕹️ Meu Projeto no Scratch
 
-🎮 **Nome do projeto:** (coloque o nome que você deu, tipo *Jogo da Nave*, *Caçador de Frutas*, etc.)
+🎮 **Superman** 
 
-🔗 **Link para o projeto:** [Clique aqui para acessar no Scratch](https://scratch.mit.edu/)
+🔗 **Link para o projeto:** [Clique aqui para acessar no Scratch]([https://scratch.mit.edu/](https://scratch.mit.edu/projects/1198431777))
 
 📸 **Imagem ou GIF do projeto:**  
-(Você pode colocar um print ou fazer um GIF curtinho usando o ShareX ou algum gravador de tela.)
+<img width="432" height="324" alt="image" src="https://github.com/user-attachments/assets/57429c73-ccca-44ca-a143-2d82f27265f8" />
+
 
 ---
 
