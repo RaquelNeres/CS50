@@ -19,25 +19,23 @@ Essa abordagem é ótima para quem está começando, porque foca na lógica ante
 
 ## 🕹️ Meu Projeto no Scratch
 
-🎮 **Nome do projeto:** (coloque o nome que você deu, tipo *Jogo da Nave*, *Caçador de Frutas*, etc.)
+🎮 **Superman** 
 
-🔗 **Link para o projeto:** [Clique aqui para acessar no Scratch](https://scratch.mit.edu/)
+🔗 **Link para o projeto:** [Clique aqui para acessar no Scratch]([https://scratch.mit.edu/](https://scratch.mit.edu/projects/1198431777))
 
-📸 **Imagem ou GIF do projeto:**  
-(Você pode colocar um print ou fazer um GIF curtinho usando o ShareX ou algum gravador de tela.)
+📸 
+<img width="432" height="324" alt="image" src="https://github.com/user-attachments/assets/57429c73-ccca-44ca-a143-2d82f27265f8" />
+
 
 ---
 
 ## 🧩 Explicação do projeto
 
-> Aqui você descreve o que o seu projeto faz e como funciona.
-
-Exemplo:
-> Criei um jogo onde o jogador controla uma nave que precisa desviar de obstáculos. A cada colisão, o jogo reinicia. Usei blocos de movimentação, detecção de colisão e sons.
+> Criei um jogo onde o jogador controla o prsonagem que precisa desviar de obstáculos. A cada colisão, perde 1 vida. O personagem dispara raios laser. Usei blocos de movimentação, detecção de colisão e sons.
 
 ### Principais blocos usados:
 - `quando bandeira verde clicada`: inicia o jogo
-- `mude x por ___`: movimentação da nave
+- `mude x por ___`: movimentação do personagem
 - `se tocar em ___ então`: detecção de colisão
 - `reproduzir som ___`: efeitos sonoros
 
@@ -51,14 +49,5 @@ Exemplo:
 
 ---
 
-## 🪄 Extras
+Mesmo sendo uma plataforma visual, essa semana me mostrou o quão poderosa é a lógica por trás da programação. Um a pensar como um desenvolvedor, mesmo sem escrever uma linha de código.
 
-> (Aqui você pode colocar algo mais criativo, tipo: o que faria diferente se tivesse mais tempo, ideias para melhorar o projeto ou curiosidades sobre o que achou divertido.)
-
----
-
-## 🧘‍♀️ Reflexão
-
-Mesmo sendo uma plataforma visual, essa semana me mostrou o quão poderosa é a lógica por trás da programação. Me senti desafiada a pensar como uma desenvolvedora, mesmo sem escrever uma linha de código.
-
-> "Antes de saber programar em C, eu aprendi a pensar como uma programadora."

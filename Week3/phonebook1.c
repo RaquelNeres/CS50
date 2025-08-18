@@ -35,5 +35,14 @@ int main(void)
     }
     printf("Not found\n");
     return 1;
-}
+};
 
+
+// Pessoa[] pessoas = new Pessoa[3]; // cria um array de 3 posições
+
+// // ainda não existem objetos Pessoa, só o espaço para 3 referências
+// pessoas[0] = new Pessoa(); // aqui sim você cria o objeto
+// pessoas[0].nome = "Maria";
+// pessoas[0].idade = 18;
+// pessoas[0].sexo = 'F';
+// pessoas[0].cpf = "123.456.789-00";

@@ -1,5 +1,4 @@
 # Week 3
-
 esse semana é realmente sobre dar uma pausa depois das ultimas duas de codigo C relativamente novo e intensivo e apenas resolves alguns problemas novos e mais sofisticados juntos
 
 ## Busca Linear
@@ -16,6 +15,7 @@ For i from 0 to n-1
         Return true
 Return false
 ```
+
 [se quiséssemos procurar um int dentro de um array](search0.c)
 
 [se quiséssemos procurar uma string dentro de um array](search1.c)
