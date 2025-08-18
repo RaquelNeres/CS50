@@ -37,6 +37,9 @@ printf("%i\n", *p); // imprime 50 porque esta apontando para o endereço de memo
 - `&` → pega o endereço.  
 - `*` → acessa o valor armazenado nesse endereço.  
 
+### Visualização do que aconteceu no codigo 
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## Strings
 
@@ -47,6 +50,8 @@ string s = "HI!";
 printf("%c %c %c\n", s[0], s[1], s[2]); // H I !
 ```
 
+![alt text](image-5.png)
+
 ### Ponteiros em strings
 Strings são essencialmente ponteiros para o primeiro caractere da sequência.  
 ```c
@@ -54,6 +59,8 @@ char *s = "HI!";
 printf("%p\n", s);    // endereço de memória
 printf("%p\n", &s[0]); // mesmo endereço
 ```
+
+![alt text](image-6.png)
 
 [Exemplo de manipulação de string](string0.c)
 
@@ -73,6 +80,8 @@ if (strcmp(s, t) == 0)
 }
 ```
 
+![alt text](image-7.png)
+
 [Exemplo de comparação](string1.c)
 
 ## Copiando Strings
@@ -84,6 +93,8 @@ char *s = "HI!";
 char *t = malloc(strlen(s) + 1);
 strcpy(t, s);
 ```
+
+![alt text](image-8.png)
 
 [Exemplo de cópia](copy.c)
 
