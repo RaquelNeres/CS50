@@ -1,4 +1,4 @@
-# CS50
+# Week 3
 
 esse semana é realmente sobre dar uma pausa depois das ultimas duas de codigo C relativamente novo e intensivo e apenas resolves alguns problemas novos e mais sofisticados juntos
 
@@ -16,11 +16,11 @@ For i from 0 to n-1
         Return true
 Return false
 ```
-[se quiséssemos procurar um int dentro de um array](https://github.com/RaquelNeres/CS50/week3/search0.c)
+[se quiséssemos procurar um int dentro de um array](search0.c)
 
-[se quiséssemos procurar uma string dentro de um array](https://github.com/RaquelNeres/CS50/week3/search1.c)
+[se quiséssemos procurar uma string dentro de um array](search1.c)
 
-[se quiséssemos combinar essas ideias de números e strings em um único programa](https://github.com/RaquelNeres/CS50/week3/phonebook0.c)
+[se quiséssemos combinar essas ideias de números e strings em um único programa](phonebook0.c)
 
 ## Busca Binária
 
@@ -57,7 +57,7 @@ typedef struct
 } person;
 ```
 
-[Implementando strucs](https://github.com/RaquelNeres/CS50/week3/phonebook1.c)
+[Implementando strucs](phonebook1.c)
 
 > Observe que o código começa com typedef structo local onde um novo tipo de dado chamado personé definido. Dentro de a person há uma string chamada name e um string chamado number. No main, começa criando um array chamado people que é do tipo person que tem tamanho 3. Em seguida, atualizamos os nomes e números de telefone das duas pessoas em nosso people array. Mais importante ainda, observe como a notação de ponto , como people[0].name, nos permite acessar o personna posição 0 e atribuir um nome a esse indivíduo.
 
@@ -89,7 +89,7 @@ Else
     Quit
 ```
 
-[Implementando recursão no nosso codigo do mario da semana 1](https://github.com/RaquelNeres/CS50/week3/recursion.c)
+[Implementando recursão no nosso codigo do mario da semana 1](recursion.c)
 
 > Observe que o caso base garantirá que o código não seja executado para sempre. A linha if (n <= 0)encerra a recursão porque o problema foi resolvido. Toda vez que, drawchama a si mesma, ela se chama por n-1. Em algum momento, n-1será igual a 0, resultando no drawretorno da função e o programa será encerrado.
 

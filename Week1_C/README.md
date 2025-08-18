@@ -1,6 +1,3 @@
-
-**Exemplo de README.md para Week1:**
-```md
 # Semana 1 - C: Algoritmos e Condicionais
 
 ## 📚 Conceitos aprendidos:
