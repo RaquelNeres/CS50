@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Exemplo prático com HTML, CSS e JS - Aula CS50">
+    <meta name="keywords" content="cs50, html, css, javascript, aprendizado">
+    <meta name="author" content="Raquel Nascimento">
+
+    <title>Projeto CS50</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Cabeçalhos -->
+    <h1>Bem-vindo ao meu Projeto CS50 🚀</h1>
+    <h2>HTML, CSS e JavaScript juntos</h2>
+
+    <!-- Abreviação -->
+    <p>Exemplo de abreviação: <abbr title="Linguagem de Marcação de Hipertexto">HTML</abbr></p>
+
+    <!-- Lista -->
+    <h3>Recursos aprendidos</h3>
+    <ul>
+        <li>Tags básicas</li>
+        <li>Formulários</li>
+        <li>Validação</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <!-- Link -->
+    <p>Visite também o <a href="https://cs50.harvard.edu/x/" target="_blank">CS50 original</a></p>
+
+    <!-- Formulário simples -->
+    <h3>Pesquisar no Google</h3>
+    <form action="https://www.google.com/search" method="get">
+        <input autocomplete="off" autofocus name="q" placeholder="Buscar no Google" type="search">
+        <button>Pesquisar</button>
+    </form>
+
+    <!-- Validação com regex -->
+    <h3>Cadastro</h3>
+    <form id="cadastroForm">
+        <input type="text" name="nome" placeholder="Nome" required>
+        <input name="email" type="email" pattern=".+@.+\..+" placeholder="Digite seu email" required>
+        <button type="submit">Cadastrar</button>
+    </form>
+
+    <!-- Botão para interatividade JS -->
+    <h3>Interatividade com JavaScript</h3>
+    <button onclick="mostrarMensagem()">Clique aqui!</button>
+    <p id="mensagem"></p>
+
+    <!-- Conexão com JS -->
+    <script src="js/script.js"></script>
+</body>
+</html>

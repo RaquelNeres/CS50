@@ -3,13 +3,12 @@
 Essa semana é sobre memória 🧠 — como ela funciona dentro do computador e como a linguagem C nos permite manipular diretamente seus blocos. O foco está em ponteiros, arrays, strings e a forma como os dados são armazenados.
 
 ## Pixel Art
---- 
+
 ![alt text](image.png)
 
 > uma imagem seria como um mapa de bits, onde zeros representam preto e uns representam branco.
 
-Endereços de Memória
---- 
+## Endereços de Memória 
 
 Cada variável no computador ocupa um espaço na memória. Esse espaço possui um endereço, que pode ser acessado e manipulado.
 
