@@ -19,8 +19,9 @@ if __name__ == "__main__":
 ```
 
 ### 🔹 Comandos importantes
-- `Flask(__name__)` → Cria o app Flask.
+- `Flask(__name__)` → Cria o app Flask (para que saiba onde está a aplicação).
 - `@app.route("/")` → Define a rota.
+- `index()` → Função que será executada quando acessarmos essa rota.
 - `app.run()` → Inicia o servidor.
 
 
@@ -47,6 +48,7 @@ def index():
     name = "Raquel"
     return render_template("index.html", name=name)
 ```
+- Caso seja um GET (primeira vez que a página é carregada), ele retorna o template index.html (a página com o formulário).
 
 No HTML:
 ```html
@@ -73,7 +75,9 @@ def login():
         return f"Bem-vindo, {username}!"
     return render_template("login.html")
 ```
-
+- Verifica se a requisição é do tipo POST (significa que o formulário foi enviado).
+- `request.form.get("name")` → Pega o valor do campo `name` enviado pelo formulário.
+- `render_template("greet.html", name=...)` → Renderiza o template greet.html e envia a variável name para ele.
 
 ## ✅ Flask e Banco de Dados (SQL)
 - Usando **SQLite** com Flask:
