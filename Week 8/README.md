@@ -27,6 +27,7 @@ Semana dedicada a expandir nossos horizontes além do C, do Python e do SQL — 
 [Exemplo de utilizações do CSS](.md/css.md)
 
 ## JavaScript
+- Javascript é uma linguagem de tipagem dinâmica, ou seja que o tipo da variavel é determinado automaticamente com base no valor atribuido.
 - Dá vida aos sites com **interatividade**.
 - Conceitos principais:
   - **Variáveis**, **condicionais** e **loops**.
