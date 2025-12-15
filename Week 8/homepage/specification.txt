@@ -1,0 +1,1 @@
+Você também deve criar um arquivo de texto, specification.txt, que liste as 10 tags HTML e as 5 propriedades CSS que você usou, bem como uma breve descrição (uma frase) de como você optou por usar JavaScript e Bootstrap.

@@ -1,0 +1,136 @@
+body {
+    background-color: #fff;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    text-align: left;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#lua{
+    margin-top: 10px;
+    position: fixed;
+    margin-left: 95%;
+    background-color: #a499e2;
+    padding: 5px 10px 8px 10px;
+    border-radius: 10px;
+}
+
+#sol{
+    display: none;
+    margin-top: 10px;
+    position: fixed;
+    margin-left: 95%;
+    background-color: #dde299;
+    padding: 5px 10px 8px 10px;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: #212529;
+    height:80px;
+    padding: 1em;
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.img-headline img {
+    max-width: 100%;
+    height: auto;
+}
+
+section h2 {
+    font-size: 80px;
+    margin: 0 0 20px 0;
+    font-family: 'Lobster', sans-serif;
+    font-weight: bold;
+    color: #180F4A;
+}
+
+section h2 a {
+    color: #1E90FF;
+    text-decoration: none;
+}
+
+section p {
+    line-height: 1.6;
+}
+
+.img-headline {
+    margin-left: 70px;
+    flex: 300%;
+    /* border: 1px solid deeppink; */
+    text-align: center;
+}
+
+footer{
+    background-color: #212529;
+    height:100px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+footer h3{
+    color: #fff;
+    font-size: 30px;
+}
+
+#texto{
+    margin-top: 20px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.center {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.wrapper {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  background-color: rgb(69 164 181);
+  border-radius: 5px;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
